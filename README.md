@@ -6,5 +6,5 @@ Features
 * Volatility decomposed into seasonal + interannual + residuals (still under refinement)
 * Simulation implemented using Euler-Maruyama discretisation of the O-U process
 
-⚠️ Issues
+Issues
 * Volatility model to be improved as simulated volatility seems to be much less than expected (31 Aug 2025)
